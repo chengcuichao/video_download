@@ -1,0 +1,24 @@
+1533129040681	geckodriver	INFO	geckodriver 0.21.0
+1533129040686	geckodriver	INFO	Listening on 127.0.0.1:59127
+1533129041686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dw4PcOW59zbe"
+*** You are running in headless mode.
+1533129042304	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1533129043569	Marionette	INFO	Listening on port 38309
+1533129043606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533129122633	geckodriver	INFO	geckodriver 0.21.0
+1533129122638	geckodriver	INFO	Listening on 127.0.0.1:53781
+1533129123638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RH7iyWoktmG3"
+*** You are running in headless mode.
+1533129124212	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1533129125379	Marionette	INFO	Listening on port 44819
+1533129125461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533129161296	geckodriver	INFO	geckodriver 0.21.0
+1533129161301	geckodriver	INFO	Listening on 127.0.0.1:45117
+1533129162301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.azTVzDTLAhR0"
+1533129162904	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1533129164193	Marionette	INFO	Listening on port 36957
+1533129164221	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
